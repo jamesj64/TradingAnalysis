@@ -1,3 +1,7 @@
 #Testing Files
 TestingOnly.ipynb
 Testing.py
+
+.idea
+
+__pycache__
