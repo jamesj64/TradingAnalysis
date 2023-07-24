@@ -18,19 +18,23 @@ Some of the libraries currently used include Jupyter, Pandas, Matplotlib, sci-ki
 ### Technical Indicators
 
 ##### Bollinger Bands
-![image](https://github.com/jamesj64/TradingAnalysis/assets/102470405/4766b776-3ac7-4e0d-a6e2-57b7b9bc26ae)
+![image](https://github.com/jamesj64/TradingAnalysis/assets/102470405/ce8ecada-4ec7-4ace-bbe4-8b5d714bc7d1)
+
 
 ##### SMA
-![image](https://github.com/jamesj64/TradingAnalysis/assets/102470405/60eab26a-a5ae-4db4-bef0-098f6485c18e)
+![image](https://github.com/jamesj64/TradingAnalysis/assets/102470405/2bbe1be4-496e-473d-be74-389d37bb68eb)
 
 
 ### Strategy performance
 
 ##### Mean Reversion
-![image](https://github.com/jamesj64/TradingAnalysis/assets/102470405/3ba1a758-3ff3-4230-9290-a5d0951cfd84)
+![image](https://github.com/jamesj64/TradingAnalysis/assets/102470405/d2158f8b-3019-4c1a-9fb8-ddc6c8cac6ae)
+
 
 ##### SMA Crossover
-![image](https://github.com/jamesj64/TradingAnalysis/assets/102470405/22244e88-320b-4899-9656-f2aadd0b1e35)
+![image](https://github.com/jamesj64/TradingAnalysis/assets/102470405/a1f27f38-2dd5-4112-adee-bedf975e4426)
+
 
 ##### Momentum
-![image](https://github.com/jamesj64/TradingAnalysis/assets/102470405/2c4fc7e6-8b9c-43af-88c2-b7ce26f2d2c9)
+![image](https://github.com/jamesj64/TradingAnalysis/assets/102470405/761aa8c1-9800-491c-bdf7-9d3f7f9e092a)
+
