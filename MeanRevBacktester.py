@@ -53,7 +53,7 @@ class MeanRevBacktester:
         data["Lower"] = data["SMA"] - self._dev * data["price"].rolling(self._window).std()
         data["distance"] = data.price - data.SMA
         self._data = data
-        data.drop(columns=["log_returns", "distance"]).plot(title="Bollinger Bands Indicator")
+        data.drop(columns=["log_returns", "distance"]).loc["2022"].plot(title="Bollinger Bands Indicator")
 
     def test_strategy(self):
         """ Backtests the trading strategy. """
